@@ -15,7 +15,7 @@ public class Main {
         boolean exit = false;
 
         while (!exit) {
-        	System.out.print("\n\n Hello customer");
+        	System.out.println("\n\nHello customer\n");
             System.out.print("Enter account number: ");
             String accNumber = scanner.next();
             System.out.print("Enter PIN: ");
